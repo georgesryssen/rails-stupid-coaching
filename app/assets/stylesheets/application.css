@@ -33,3 +33,7 @@
 #answer{
   background-color: #FFFFE0;
 }
+
+a {
+  text-decoration: none;
+}
